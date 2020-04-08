@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "570215696962",
+    "firebase_url": "https://likhit-lamhe.firebaseio.com",
+    "project_id": "likhit-lamhe",
+    "storage_bucket": "likhit-lamhe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570215696962:android:943dafe6b4a14e54287bdb",
+        "android_client_info": {
+          "package_name": "com.example.likhit_lamhe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570215696962-6qtt5ro3vgltvdmhcdgkj275kknmch7i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.likhit_lamhe",
+            "certificate_hash": "6f276fbab0ad2a5445dd14a9f7f4aa8077bdd89b"
+          }
+        },
+        {
+          "client_id": "570215696962-8oak1rifl03st0io19mnb3qg8lmtcd6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSfJpiDea67KIPOHBcDHsCUgguTOhmq0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570215696962-8oak1rifl03st0io19mnb3qg8lmtcd6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
